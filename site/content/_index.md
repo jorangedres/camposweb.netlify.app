@@ -1,20 +1,43 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Gran café con conciencia
+subtitle: Apoya la agricultura sostenible mientras disfrutas de una taza.
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: ¿Por qué Kaldi?
+  text: >-
+    Kaldi es la tienda de café para todos los que creen que el buen café no solo
+    debe saber bien, sino que también debe funcionar. Obtenemos todos nuestros
+    frijoles directamente de agricultores sostenibles a pequeña escala y nos
+    aseguramos de que parte de las ganancias se reinviertan en sus comunidades.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Lo que ofrecemos
+  text: >-
+    Kaldi es el lugar ideal para los amantes del café que desean aprender sobre
+    el origen de su java y apoyar a los agricultores que lo cultivaron. Nos
+    tomamos en serio la producción de café, el tostado y la elaboración de
+    cerveza y nos complace transmitirle ese conocimiento a cualquiera.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: >-
+      Vendemos granos de café verde y tostado que se obtienen directamente de
+      agricultores independientes y cooperativas agrícolas. Estamos orgullosos
+      de ofrecer una variedad de granos de café cultivados con gran cuidado para
+      el medio ambiente y las comunidades locales. Consulte nuestra publicación
+      o contáctenos directamente para conocer la disponibilidad actual.
+  - image: /img/illustrations-coffee-gear.svg
+    text: >-
+      Ofrecemos una selección pequeña, pero cuidadosamente cuidada, de
+      herramientas de elaboración de cerveza y herramientas para cada gusto y
+      nivel de experiencia. No importa si usted asa sus propios frijoles o si
+      acaba de comprar su primera prensa francesa, encontrará un gadget para
+      enamorarse en nuestra tienda.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Nuestros valores
+  text: >-
+    El café es una parte sorprendente de la cultura humana, pero también tiene
+    un lado oscuro: uno de colonialismo y abuso sin sentido de los recursos
+    naturales y las vidas humanas. Queremos darle la vuelta y devolver el
+    comercio de café a la naturaleza estimulante, empoderadora y unificadora de
+    la bebida.
 ---
 
